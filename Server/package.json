@@ -1,0 +1,23 @@
+{
+  "name": "emessenger",
+  "version": "0.0.1",
+  "description": "Simple web chat",
+  "main": "server.js",
+  "scripts": {
+    "test": "echo \"Error: no test specified\" && exit 1"
+  },
+  "repository": {
+    "type": "git",
+    "url": "git+https://github.com/nzavarinsky/web-messenger.git"
+  },
+  "author": "Nazarii Zavarynskyi",
+  "license": "ISC",
+  "bugs": {
+    "url": "https://github.com/nzavarinsky/web-messenger/issues"
+  },
+  "homepage": "https://github.com/nzavarinsky/web-messenger#readme",
+  "dependencies": {
+    "express": "^4.15.2",
+    "socket.io": "^2.0.1"
+  }
+}
